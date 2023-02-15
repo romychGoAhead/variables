@@ -86,7 +86,7 @@ public class Main {
     }
 
     public static void task8() {
-        System.out.println("Задача 8");
+        System.out.println("Задача 8 ");
         var totalNumberHours = 640;
         var everyEmployeeWorks = 8;
         var totalEmployeesTheCompany = totalNumberHours / everyEmployeeWorks;
